@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tiger\'s Hut Calculator</string>
+    <string name="app_title">Calculadora de Festa</string>
+    <string name="opcao1">Opção Completa</string>
+    <string name="opcao2">Opção Light</string>
+    <string name="opcao3">Opção Churrasco</string>
+    <string name="btnCustom_off">Customizar</string>
+    <string name="btnCustom_on">Usar Padrão</string>
+</resources>

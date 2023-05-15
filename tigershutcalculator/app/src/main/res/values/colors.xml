@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgcolor_dark">#613B15</color>
+    <color name="bgcolor_light">#F5C08B</color>
+    <color name="highlight">#A4F5AE</color>
+    <color name="fgcolor_light">#EAE1FF</color>
+    <color name="fgcolor_light_grayer">#95929E</color>
+    <color name="fgcolor_dark">#1B1232</color>
+    <color name="fgcolor_dark_grayer">#363241</color>
+
+</resources>
